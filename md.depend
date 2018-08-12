@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1532614479 source:/home/brian/projects/md_map/main.cpp
+	<iostream>
+	"Table.h"
+	"Cmdline.h"
+	"Utility.h"
+	"Markdown.h"
+	<fstream>
+
+1532613855 /home/brian/projects/md_map/Table.h
+	<iostream>
+	<map>
+	<iomanip>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+
+1532454403 source:/home/brian/projects/md_map/Cmdline.cpp
+	"Cmdline.h"
+
+1532454352 /home/brian/projects/md_map/Cmdline.h
+	<iostream>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1532557793 source:/home/brian/projects/md_map/Table.cpp
+	"Table.h"
+
+1532457591 source:/home/brian/projects/md_map/CmdLine.cpp
+	"Cmdline.h"
+
+1532390909 /home/brian/projects/md_map/CmdLine.h
+	<iostream>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1532555530 source:/home/brian/projects/md_map/Utility.cpp
+	"Utility.h"
+
+1532611058 /home/brian/projects/md_map/Utility.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532615959 /home/brian/projects/md_map/Markdown.h
+	<iostream>
+	"Table.h"
+	"Cmdline.h"
+	"Utility.h"
+	<fstream>
+
